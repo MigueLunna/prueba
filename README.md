@@ -1,2 +1,2 @@
 # prueba
-haciendo mi primera prueba para poder trabajar y dedicarme a programar de verdad
+haciendo mi primera prueba modificada desde el servidor
