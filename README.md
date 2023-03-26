@@ -1,2 +1,2 @@
 # prueba
-haciendo mi primera prueba modificada desde el servidor
+haciendo mi primera prueba modificada desde el servidor(fetch)
